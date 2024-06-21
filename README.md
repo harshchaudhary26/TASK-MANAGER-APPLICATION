@@ -157,10 +157,9 @@ Inside backend folder:
 - `npm run dev`: Starts backend using nodemon.
 - `npm start`: Starts backend without nodemon.
 
-## Useful Links
+## Useful links
 
-- This project
-- Github Repo: https://github.com/harshchaudhary26/TASK-MANAGER-APPLICATION
+- This project Github Repo: https://github.com/harshchaudhary26/TASK-MANAGER-APPLICATION
   - 
 - Download links
 
